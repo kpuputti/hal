@@ -1,0 +1,16 @@
+{
+  "name": "hal",
+  "version": "0.0.1",
+  "description": "Home bot",
+  "main": "index.js",
+  "author": "Kimmo Puputti <git@kimmo.kpuputti.fi>",
+  "license": "MIT",
+  "dependencies": {
+    "say": "0.6.0",
+    "node-record-lpcm16": "0.1.4",
+    "node-wit": "2.0.0",
+    "request": "2.67.0",
+    "cheerio": "0.19.0",
+    "wolfram-alpha": "0.3.0"
+  }
+}
