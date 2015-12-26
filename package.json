@@ -10,7 +10,6 @@
     "node-record-lpcm16": "0.1.4",
     "node-wit": "2.0.0",
     "request": "2.67.0",
-    "cheerio": "0.19.0",
     "wolfram-alpha": "0.3.0"
   }
 }
