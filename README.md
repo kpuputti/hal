@@ -13,5 +13,6 @@ to add more wit.ai intents for other purposes as well in the future.
  - Get wit.ai and Wolfram|Alpha API tokens
  - Define `WIT_TOKEN` and `WOLFRAM_APP_ID` environment variables
  - `brew install sox` to enable recording audio
+ - `npm install` to install dependencies
  - Run `node index.js`, ask your question (5 second timeout), wait,
    and hear Hal read out the result to you!
